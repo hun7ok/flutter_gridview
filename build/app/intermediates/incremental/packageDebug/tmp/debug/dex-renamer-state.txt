@@ -1,0 +1,4 @@
+#Wed Jun 17 17:34:24 WITA 2020
+base.0=/Users/egovkominfotala/AndroidStudioProjects/flutter-album_foto/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

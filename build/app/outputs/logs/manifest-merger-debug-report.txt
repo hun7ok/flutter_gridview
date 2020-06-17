@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/egovkominfotala/AndroidStudioProjects/flutter-album_foto/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/egovkominfotala/AndroidStudioProjects/flutter-album_foto/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/egovkominfotala/AndroidStudioProjects/flutter-album_foto/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/egovkominfotala/AndroidStudioProjects/flutter-album_foto/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from /Users/egovkominfotala/AndroidStudioProjects/flutter-album_foto/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/0726e4d9551409eaab3c5754d4b0f669/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/2d929a57ab90d42e7c62fbf984dd9030/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/875f8d5ce49ebc677ae9266867b9be13/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/51cebf7afc5bcabc35cea34d3c82b09a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/42eb8f147423c0261f06f176cc2e0edf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/385b5783320bc452262b36dc39780f5f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/32a36df6cf6b0cdb8e196fc17baf04d4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/fa782d7e1d954c488bde32f5e70f866a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/212f2baf8205b32c015ac70468c94113/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/a9b32cde6a1c4812e22b9e5b038ecd0f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/94809c10f20764e1b9584f0fdb407d40/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ff4f5940668fca69ead5aeb47879015b/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/da89628c04e1e686cb05c0e75009ae04/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/8c465c518430ae696576feba91485080/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/1b09f01182ad2814bf2f580b5373af7a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2af9063a09e07ec7c70fbbc8d0623654/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/e2c859eb6381ad6aec08ff4b10ce1343/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0273174f23cee97c39f25ad92663cd16/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/d1e995b945ec460e6cde6caf1d8b0dc8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/43f303d75668093000d5e07874e223c6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/bc3ade50fb99977d6473910c2de9aa68/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/a970d36c910754a03c74f345d6d2e8d0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/9e5c1c7e5a4b76cfeedbd04693fa43eb/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/egovkominfotala/AndroidStudioProjects/flutter-album_foto/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/egovkominfotala/AndroidStudioProjects/flutter-album_foto/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/egovkominfotala/AndroidStudioProjects/flutter-album_foto/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /Users/egovkominfotala/AndroidStudioProjects/flutter-album_foto/android/app/src/main/AndroidManifest.xml:2:5-45
+		INJECTED from /Users/egovkominfotala/AndroidStudioProjects/flutter-album_foto/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/egovkominfotala/AndroidStudioProjects/flutter-album_foto/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/egovkominfotala/AndroidStudioProjects/flutter-album_foto/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/egovkominfotala/AndroidStudioProjects/flutter-album_foto/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /Users/egovkominfotala/AndroidStudioProjects/flutter-album_foto/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/egovkominfotala/AndroidStudioProjects/flutter-album_foto/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/egovkominfotala/AndroidStudioProjects/flutter-album_foto/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /Users/egovkominfotala/AndroidStudioProjects/flutter-album_foto/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/egovkominfotala/AndroidStudioProjects/flutter-album_foto/android/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/egovkominfotala/AndroidStudioProjects/flutter-album_foto/android/app/src/main/AndroidManifest.xml:9:5-32:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ff4f5940668fca69ead5aeb47879015b/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ff4f5940668fca69ead5aeb47879015b/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0273174f23cee97c39f25ad92663cd16/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0273174f23cee97c39f25ad92663cd16/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ff4f5940668fca69ead5aeb47879015b/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/egovkominfotala/AndroidStudioProjects/flutter-album_foto/android/app/src/main/AndroidManifest.xml:11:9-43
+	android:icon
+		ADDED from /Users/egovkominfotala/AndroidStudioProjects/flutter-album_foto/android/app/src/main/AndroidManifest.xml:12:9-43
+	android:name
+		ADDED from /Users/egovkominfotala/AndroidStudioProjects/flutter-album_foto/android/app/src/main/AndroidManifest.xml:10:9-57
+activity#com.example.day10_shoping_list.MainActivity
+ADDED from /Users/egovkominfotala/AndroidStudioProjects/flutter-album_foto/android/app/src/main/AndroidManifest.xml:13:9-31:20
+	android:launchMode
+		ADDED from /Users/egovkominfotala/AndroidStudioProjects/flutter-album_foto/android/app/src/main/AndroidManifest.xml:15:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/egovkominfotala/AndroidStudioProjects/flutter-album_foto/android/app/src/main/AndroidManifest.xml:18:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/egovkominfotala/AndroidStudioProjects/flutter-album_foto/android/app/src/main/AndroidManifest.xml:19:13-55
+	android:configChanges
+		ADDED from /Users/egovkominfotala/AndroidStudioProjects/flutter-album_foto/android/app/src/main/AndroidManifest.xml:17:13-144
+	android:theme
+		ADDED from /Users/egovkominfotala/AndroidStudioProjects/flutter-album_foto/android/app/src/main/AndroidManifest.xml:16:13-47
+	android:name
+		ADDED from /Users/egovkominfotala/AndroidStudioProjects/flutter-album_foto/android/app/src/main/AndroidManifest.xml:14:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /Users/egovkominfotala/AndroidStudioProjects/flutter-album_foto/android/app/src/main/AndroidManifest.xml:24:13-26:40
+	android:value
+		ADDED from /Users/egovkominfotala/AndroidStudioProjects/flutter-album_foto/android/app/src/main/AndroidManifest.xml:26:17-37
+	android:name
+		ADDED from /Users/egovkominfotala/AndroidStudioProjects/flutter-album_foto/android/app/src/main/AndroidManifest.xml:25:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/egovkominfotala/AndroidStudioProjects/flutter-album_foto/android/app/src/main/AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from /Users/egovkominfotala/AndroidStudioProjects/flutter-album_foto/android/app/src/main/AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from /Users/egovkominfotala/AndroidStudioProjects/flutter-album_foto/android/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/egovkominfotala/AndroidStudioProjects/flutter-album_foto/android/app/src/main/AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from /Users/egovkominfotala/AndroidStudioProjects/flutter-album_foto/android/app/src/main/AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from /Users/egovkominfotala/AndroidStudioProjects/flutter-album_foto/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/egovkominfotala/AndroidStudioProjects/flutter-album_foto/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/egovkominfotala/AndroidStudioProjects/flutter-album_foto/android/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/0726e4d9551409eaab3c5754d4b0f669/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/0726e4d9551409eaab3c5754d4b0f669/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/2d929a57ab90d42e7c62fbf984dd9030/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/2d929a57ab90d42e7c62fbf984dd9030/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/875f8d5ce49ebc677ae9266867b9be13/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/875f8d5ce49ebc677ae9266867b9be13/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/51cebf7afc5bcabc35cea34d3c82b09a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/51cebf7afc5bcabc35cea34d3c82b09a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/42eb8f147423c0261f06f176cc2e0edf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/42eb8f147423c0261f06f176cc2e0edf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/385b5783320bc452262b36dc39780f5f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/385b5783320bc452262b36dc39780f5f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/32a36df6cf6b0cdb8e196fc17baf04d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/32a36df6cf6b0cdb8e196fc17baf04d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/fa782d7e1d954c488bde32f5e70f866a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/fa782d7e1d954c488bde32f5e70f866a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/212f2baf8205b32c015ac70468c94113/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/212f2baf8205b32c015ac70468c94113/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/a9b32cde6a1c4812e22b9e5b038ecd0f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/a9b32cde6a1c4812e22b9e5b038ecd0f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/94809c10f20764e1b9584f0fdb407d40/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/94809c10f20764e1b9584f0fdb407d40/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ff4f5940668fca69ead5aeb47879015b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ff4f5940668fca69ead5aeb47879015b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/da89628c04e1e686cb05c0e75009ae04/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/da89628c04e1e686cb05c0e75009ae04/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/8c465c518430ae696576feba91485080/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/8c465c518430ae696576feba91485080/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/1b09f01182ad2814bf2f580b5373af7a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/1b09f01182ad2814bf2f580b5373af7a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2af9063a09e07ec7c70fbbc8d0623654/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2af9063a09e07ec7c70fbbc8d0623654/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/e2c859eb6381ad6aec08ff4b10ce1343/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/e2c859eb6381ad6aec08ff4b10ce1343/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0273174f23cee97c39f25ad92663cd16/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0273174f23cee97c39f25ad92663cd16/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/d1e995b945ec460e6cde6caf1d8b0dc8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/d1e995b945ec460e6cde6caf1d8b0dc8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/43f303d75668093000d5e07874e223c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/43f303d75668093000d5e07874e223c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/bc3ade50fb99977d6473910c2de9aa68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/bc3ade50fb99977d6473910c2de9aa68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/a970d36c910754a03c74f345d6d2e8d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/a970d36c910754a03c74f345d6d2e8d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/9e5c1c7e5a4b76cfeedbd04693fa43eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/egovkominfotala/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/9e5c1c7e5a4b76cfeedbd04693fa43eb/AndroidManifest.xml:20:5-44
+INJECTED from /Users/egovkominfotala/AndroidStudioProjects/flutter-album_foto/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/egovkominfotala/AndroidStudioProjects/flutter-album_foto/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/egovkominfotala/AndroidStudioProjects/flutter-album_foto/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/egovkominfotala/AndroidStudioProjects/flutter-album_foto/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/egovkominfotala/AndroidStudioProjects/flutter-album_foto/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/egovkominfotala/AndroidStudioProjects/flutter-album_foto/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/egovkominfotala/AndroidStudioProjects/flutter-album_foto/android/app/src/debug/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /Users/egovkominfotala/AndroidStudioProjects/flutter-album_foto/android/app/src/debug/AndroidManifest.xml:6:22-64
